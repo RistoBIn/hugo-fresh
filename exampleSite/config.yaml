@@ -42,7 +42,7 @@ params:
   - title: Log in
     url: /
   - title: Sign up
-    url: /
+    url: "#section5"
     button: true
   sidebar:
     # Logo (from /images/logos/___.svg)
